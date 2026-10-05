@@ -2,10 +2,10 @@
   "version": "0.4.1",
   "channel": "preview",
   "notes": "Adds Help → Check for Updates, release notes, and Download & install inside the Windows app.\n\nInstall this version manually once, then choose Preview / Development in About & Updates for Paul's testing releases. Channel choice is remembered. Future published preview versions can be downloaded and installed through the app.\n\nThe app verifies the installer signature and signed version, saves unfinished work before installation, and restarts after the update. Choose Restore design to continue the quilt that was open. Canceled or failed downloads leave the current app usable. Projects, backups, fabrics, palettes and exact custom-block geometry are preserved.\n\nAll Drawing Studio 2.0 and Color & Fabric Studio features remain available. This update adds the updater workstream requested alongside Build C; custom-block cutting templates and seam allowances are still the next construction milestone.\n\nOrdinary design work remains offline. There are no background checks, automatic installations, subscriptions or developer-tool requirements. Public downloads contain installers and update metadata; application source remains private.\n",
-  "pub_date": "2026-10-05T21:55:29.817Z",
+  "pub_date": "2026-10-05T21:58:47.056Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/pclingle1980/modern-quilt-designer-releases/releases/download/untagged-6ce7a934b05fd7bf1091/Modern-Quilt-Designer-0.4.1-Windows-x64-Setup.exe",
+      "url": "https://github.com/pclingle1980/modern-quilt-designer-releases/releases/download/v0.4.1-preview/Modern-Quilt-Designer-0.4.1-Windows-x64-Setup.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhXVCtGVlJzQ2d3OEdJQWs0amF0YWsrZk1xY1BpRDhLdzBnY0Y2V0FnbEZCdFZmaUhOQnJqemZ3dk1sSFNIcmF1QmNRSU0reFVxdlJZN09hSXpWUHNxb1R0ZGdzYWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjM2NjA2CWZpbGU6TW9kZXJuIFF1aWx0IERlc2lnbmVyXzAuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMQpteFB4RGlieGdMLytrMlJJYURCRFFibERLOEFLeEdNOUFaSEJzRGRIbnF3R2ZhWVkyaHVJS2w0Tk5YQ2hSTDRWUjROeHA3dWRPVjl3NGdESkpVMTdCdz09Cg=="
     }
   }
