@@ -1,12 +1,12 @@
 {
-  "version": "0.7.1",
+  "version": "0.8.0",
   "channel": "preview",
-  "notes": "Dark appearance is now available throughout the workspace.\n\n- Switch Light / Dark using the radio buttons near the bottom of the left side menu.\n- Open Settings below them, or Edit → Preferences, to save your startup default: Light, Dark or Follow Windows.\n- Side-menu switches apply to the current session. Reopening uses your saved default.\n- Fabric colors, exact quilt geometry and exported output remain unchanged. Drawing paper and print previews stay white.\n- Existing installations begin in Light. My Blocks, drawings, fabrics and project compatibility are preserved.\n\nThis is an appearance update. Larger layout features remain in development.\n",
-  "pub_date": "2026-10-06T17:16:30.194Z",
+  "notes": "Modern Quilt Designer 0.8.0 Preview — mixed block sizes and fabric strips\r\n\r\nChoose Quilt → Horizontal Bands & Strips or Vertical Bands & Strips. Set the finished span, add block bands or fabric strips, and edit size, count, alignment and fabrics in the right panel. Reorder, duplicate, Undo/Redo, Save and Open work with exact fractional measurements.\r\n\r\nThe same geometry drives the quilt, per-size cutting lists, yardage, My Blocks and numbered PDF assembly references. Strip-only quilts are supported. Existing blocks, drawing, fabrics, dark mode and older project formats retain their meaning.\r\n\r\nBand projects use format 7 and need 0.8.0 or newer. Save a Copy before converting if you need to keep an older-app version. Freeform placement, layers/applique and automatic motif matching remain future work. Verify physical printing and sewing before commercial pattern use.\r\n\r\nInstall through Help → Check for Updates → Preview / Development → Download & install. The app saves your work and restarts; choose Restore design to continue. Installers are public; source remains private. This preview has update-signature verification but no Windows Authenticode certificate.\r\n",
+  "pub_date": "2026-10-06T19:39:35.620Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/pclingle1980/modern-quilt-designer-releases/releases/download/v0.7.1-preview/Modern-Quilt-Designer-0.7.1-Windows-x64-Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhXVCtGVlJzQ25aWUlYell5cllTOGRFd1NLNW1EU2xHeVBxcWVVZ3p0ZjY5a0FEUmViT2xuRFdMc3hZc0x6SG16YWxVSnljRCtvMmh5UG83bjN2MlpyZGJ4M0V2UEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzA2NTU5CWZpbGU6TW9kZXJuIFF1aWx0IERlc2lnbmVyXzAuNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMQpTMVkrYUF2V1dQZzEzbDdoc2k2R2dLMHBVTzB5a05MOGtVajBySTFhRGRDcHVFdlhGeGkyUjhUSnBFTnE3a1h6SkQ4UVZJc2t0aVZpQlZjUUpHSDVDZz09Cg=="
+      "url": "https://github.com/pclingle1980/modern-quilt-designer-releases/releases/download/v0.8.0-preview/Modern-Quilt-Designer-0.8.0-Windows-x64-Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhXVCtGVlJzQ2dObll0UVBGclZyMUsrS290enhRU0k2UW9rQndnSFBMbktJdlFhWlVXeVFWSWtUKzZ3bXp0OTlKMk04NXFGL2ZOL2pvZUZlV0NuRlpFRVp0ZCtRSHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzE1MDU1CWZpbGU6TW9kZXJuIFF1aWx0IERlc2lnbmVyXzAuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMApvQTc2Umk3MkllR29wOVhTMDZlNEQxVEZIRU5GVEtxcFhJdnYwZlF5dUFDNUFiOG93VlpIQUFSbzRrUTlxTUlMeEdHaWYvWkdobTFLMEZGYzdnQk5Edz09Cg=="
     }
   }
 }
