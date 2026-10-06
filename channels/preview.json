@@ -1,12 +1,12 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "channel": "preview",
-  "notes": "My Blocks lets you keep your original blocks and use them in another quilt.\n\n- Select a custom block and choose **Save to My Blocks**. Open it later from **Library → My Blocks…** or the visible **My Blocks** button.\n- Browse saved thumbnails, search by name, and use a block throughout a quilt or replace the selected block.\n- Saved blocks retain exact geometry, finished size, colors, fabric photos, orientation and tracing guides. Each quilt receives its own copy.\n- Rename, edit saved drawings and remove library entries without changing older quilt projects.\n- My Blocks stays on your computer with a previous-version backup. Quilt Undo reverses inserting a saved block.\n\nThis is the focused personal-block-library milestone. Additional layout types, layers/appliqué and other personal asset libraries remain future work. Only complete custom blocks can be saved; the library supports up to 100 entries within 100 MB.\n\nTo update: save your work, choose **Help → Check for Updates**, select **Preview / Development**, then **Check for updates → Download & install**. After restart, choose **Restore design** to resume your quilt. Copies without the update button can install this Setup over the existing version.\n",
-  "pub_date": "2026-10-06T15:04:58.580Z",
+  "notes": "Dark appearance is now available throughout the workspace.\n\n- Switch Light / Dark using the radio buttons near the bottom of the left side menu.\n- Open Settings below them, or Edit → Preferences, to save your startup default: Light, Dark or Follow Windows.\n- Side-menu switches apply to the current session. Reopening uses your saved default.\n- Fabric colors, exact quilt geometry and exported output remain unchanged. Drawing paper and print previews stay white.\n- Existing installations begin in Light. My Blocks, drawings, fabrics and project compatibility are preserved.\n\nThis is an appearance update. Larger layout features remain in development.\n",
+  "pub_date": "2026-10-06T17:16:30.194Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/pclingle1980/modern-quilt-designer-releases/releases/download/v0.7.0-preview/Modern-Quilt-Designer-0.7.0-Windows-x64-Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhXVCtGVlJzQ21xUnhBM0ttcWt2TG9vMEZtTDBBM0p3WDlMU3pHOEFhMVpaK2o4ZTNhMUpTMVU4Ykk1OEVJcGsyZWo0R3NpeFFiRjRiakk4Zk5MeGV6QytLUFZZVncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjk4Njk2CWZpbGU6TW9kZXJuIFF1aWx0IERlc2lnbmVyXzAuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMApBWW5QZmFRMUpHc0k2eG9yaE1udjZ5c1Y4YVpSNFE0cDRZQjBGUSt4VmZDTkNFR0JlUEF2KzcwQnBrMnJMU3BnVG13UHJzOHlwbzVtUkdLU0xITnlDZz09Cg=="
+      "url": "https://github.com/pclingle1980/modern-quilt-designer-releases/releases/download/v0.7.1-preview/Modern-Quilt-Designer-0.7.1-Windows-x64-Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhXVCtGVlJzQ25aWUlYell5cllTOGRFd1NLNW1EU2xHeVBxcWVVZ3p0ZjY5a0FEUmViT2xuRFdMc3hZc0x6SG16YWxVSnljRCtvMmh5UG83bjN2MlpyZGJ4M0V2UEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzA2NTU5CWZpbGU6TW9kZXJuIFF1aWx0IERlc2lnbmVyXzAuNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMQpTMVkrYUF2V1dQZzEzbDdoc2k2R2dLMHBVTzB5a05MOGtVajBySTFhRGRDcHVFdlhGeGkyUjhUSnBFTnE3a1h6SkQ4UVZJc2t0aVZpQlZjUUpHSDVDZz09Cg=="
     }
   }
 }
